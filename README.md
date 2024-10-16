@@ -1,4 +1,27 @@
-### Updates to base python_wizard
+###
+Ive created this as a fork because I cant find how to add a comment ! 
+Ive finally got the python to work again . the new versions (2024)  of python only works with the new version of scipy which for 
+some reason doesnt have the functions that the python wizard needs.
+you can get both on the python and scipy websites
+
+You need to download and install   python 3.7.6 (32 bit) 
+then you download an old version of SCIPY  (from 2020) 1.2.2 seemed to work for me
+then in cmd window you change directory or folder to downloads (cd downloads) and type 
+pip install [the whole filename inclding the .whl eg  scipy-1.2.2-cp37-cp37m-win32.whl ] for the scipy download 
+then hopefully the bloody thing will work again! 
+
+May add this advice to the main readme in the main repository 
+
+
+
+
+
+
+
+
+
+
+
 
 - Added "lpcplayer" package (based on talkie) to support Play feature in GUI. 
 
